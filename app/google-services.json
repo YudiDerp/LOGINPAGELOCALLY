@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466018494141",
+    "project_id": "loginpagelocally",
+    "storage_bucket": "loginpagelocally.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466018494141:android:ab418ba94de97244fbf9d4",
+        "android_client_info": {
+          "package_name": "com.example.loginpagelocally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466018494141-p08r0fu0mk0is8990nrvi15am3s8cpk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlAxREFg7DHkryz74oLUEsXkboluN7UYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466018494141-p08r0fu0mk0is8990nrvi15am3s8cpk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
